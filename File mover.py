@@ -1,5 +1,5 @@
 ########################################################################################
-#Created by Vigenswaran Bala (not a programmer or coder)                               #
+#Created by Vigenswaran Bala                                                           #
 #Purpose:Was cleaning my laptop and had more than 300+ files in my downloads folder    #
 #        decided to write a simple program(which took me 2 whole days)to sort and move #
 #        files under respective categories according to their extension.               #
