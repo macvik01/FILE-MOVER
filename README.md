@@ -1,6 +1,6 @@
 # FILE-MOVER
 
-IF YOU DONT HAVE PYTHON OR PACKAGES INSTALLED JUST RUN THE .exe FILE BUT READ README.txt BEFORE RUNNING THE APPLICATION OR PROGRAM.
+IF YOU DONT HAVE PYTHON OR PACKAGES INSTALLED JUST RUN THE .exe FILE BUT READ README.md BEFORE RUNNING THE APPLICATION OR PROGRAM.
 FOR RUNNING THE .exe FILE YOU DONT NEED/REQUIRE PYTHON INSTALLED IN YOUR SYSTEM.
 
 This is mainly designed to move only files(not folders) from one location to another (when a large number/mixture of data are invoved).
@@ -67,8 +67,4 @@ Few keywords used below:
 To stop or cancel the process inside the terminal window type ctrl+z/ctrl+x(not a problem if you cant see what u typed in terminal) and press enter
 
 LIMITATIONS:
--->The files are moved one by one to the destination and not in a group.
 -->IF file with samename or file already exists at DESTINATION folder then it will be overwritten cannot UNDO the process.
-
-FOR LICENSE check the LICENSE.txt file
-THIS IS A OPEN SOURCE APPLICATION AND THE CODE IS AVALIABLE AT GITHUB: 
