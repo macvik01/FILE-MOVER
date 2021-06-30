@@ -67,4 +67,4 @@ Few keywords used below:
 To stop or cancel the process inside the terminal window type ctrl+z/ctrl+x(not a problem if you cant see what u typed in terminal) and press enter
 
 LIMITATIONS:
--->IF file with samename or file already exists at DESTINATION folder then it will be overwritten cannot UNDO the process.
+-->If file exists with samename (or) file already exists at DESTINATION folder then it will be overwritten, cannot UNDO the process.
