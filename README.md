@@ -1,5 +1,8 @@
 # FILE-MOVER
 
+IF YOU DONT HAVE PYTHON OR PACKAGES INSTALLED JUST RUN THE .exe FILE AND YOU CAN CHECK HOW THE PROGRAM WORKS.
+FOR RUNNING THE .exe FILE YOU DONT NEED/REQUIRE PYTHON INSTALLED IN YOUR SYSTEM.
+
 This is mainly designed to move only files(not folders) from one location to another (when a large number/mixture of data are invoved).
 Ever felt like you have too much files in a folder like different kind of file extensions from .exe,.mp4,.mp3 and many many other forms of files
 Then use this tool to sort the files and move them to your desired location.Here's how you use this application
